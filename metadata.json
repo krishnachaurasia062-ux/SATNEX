@@ -1,0 +1,8 @@
+{
+  "name": "GPS Mathematics Exhibition & Working Lab",
+  "description": "Interactive mathematical exhibition platform and working model simulator exploring the 9 mathematical principles of GPS navigation: 3D coordinate geometry, intersecting spheres, trilateration, WGS84 trigonometry, vectors, orbital calculus, least-squares optimization, 3D rotation matrices, and graph theory route planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
